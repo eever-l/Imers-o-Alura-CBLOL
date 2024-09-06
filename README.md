@@ -1,4 +1,4 @@
-##  CBLOL 2024: Sua Busca Personalizada pelo Mundo dos Esports!
+##  CBLOL 2024: Sua Busca Personalizada pelo Mundo dos Esports! - Imersão DEV com Google Gemini.
 
 **O que é isso?**
 
