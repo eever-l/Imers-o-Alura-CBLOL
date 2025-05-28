@@ -35,11 +35,4 @@ Essa aplicação ainda está em desenvolvimento, então pode ter alguns bugs ou 
 
 **#CBLOL2024 #PainGaming #VivoKeydStars #Esports**
 
-[Image of CBLOL 2024 logo]
-
-**Links úteis:**
-
-* **Repositório no GitHub:** [link para o seu repositório]
-* **CBLOL:** [link para o site oficial do CBLOL]
-
 **Keywords:** CBLOL, League of Legends, esports, PaiN Gaming, Vivo Keyd Stars, final, busca, JavaScript, HTML, CSS
